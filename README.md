@@ -10,3 +10,7 @@
 亿米装修网：http://www.yimizhuangxiu.com/jiaxing
 
 集成墙面网：http://www.jcqmw.com/Index.aspx
+
+静态商城（不是很完整）：http://cdesky.github.io/app
+
+造价站：http://cdesky.github.io/zjz
