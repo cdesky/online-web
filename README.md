@@ -11,6 +11,8 @@
 
 集成墙面网：http://www.jcqmw.com/Index.aspx
 
-手机端静态商城（还有些功能未做）：http://cdesky.github.io/app
-
 造价站：http://cdesky.github.io/zjz
+
+爱依特手机端：https://cdesky.github.io/let/
+
+商城手机端（还有些功能未做）：http://cdesky.github.io/app
