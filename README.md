@@ -1,6 +1,8 @@
 # 线上项目地址
 线上项目地址,【有些是只能内网访问，所以看不到，我有源码】
 
+个人简介：http://cdesky.github.io/person
+
 太美主站：http://www.mobilemd.cn/
 
 用户库：http://developer.mobilemd.cn:91/UserManager4.5/TM.Medical.UserLibrary.UI/login.aspx
@@ -16,5 +18,3 @@
 爱依特手机端：https://cdesky.github.io/let/
 
 商城手机端（还有些功能未做）：http://cdesky.github.io/app
-
-个人简介：http://cdesky.github.io/person
