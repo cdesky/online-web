@@ -7,7 +7,7 @@
 
 用户库：http://developer.mobilemd.cn:91/UserManager4.5/TM.Medical.UserLibrary.UI/login.aspx
 
-临床研究管理系统：http://aims-new.mobilemd.cn:2101/login.aspx
+临床研究管理系统：http://aims-new.tmtest.cn/login.aspx
 
 亿米装修网：http://www.yimizhuangxiu.com/jiaxing
 
