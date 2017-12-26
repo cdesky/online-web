@@ -5,7 +5,7 @@
 
 太美主站：http://www.mobilemd.cn/
 
-用户库：http://developer.mobilemd.cn:91/UserManager4.5/TM.Medical.UserLibrary.UI/login.aspx
+用户库：http://developer.mobilemd.cn:84/UserManager4.5/TM.Medical.UserLibrary.UI/login.aspx
 
 临床研究管理系统：http://aims-new.tmtest.cn/login.aspx
 
