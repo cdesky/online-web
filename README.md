@@ -18,3 +18,5 @@
 爱依特手机端：https://cdesky.github.io/let/
 
 商城手机端（还有些功能未做）：http://cdesky.github.io/app
+
+联盟网：https://cdesky.github.io/cucss/
